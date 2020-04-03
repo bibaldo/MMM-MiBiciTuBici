@@ -1,0 +1,28 @@
+.mibicitubici .small {
+  font-size: 14px;
+}
+
+.mibicitubici .medium {
+  font-size: 20px;
+}
+
+.mibicitubici td.info {
+  width: 90px;
+  text-align: center;
+}
+
+.mibicitubici td.info.icon {
+  color: white;
+}
+
+.mibicitubici td span.inactive {
+  text-decoration: line-through;
+}
+
+.mibicitubici td.has-many {
+  color: green;
+}
+
+.mibicitubici td.has-not {
+  color: red;
+}
