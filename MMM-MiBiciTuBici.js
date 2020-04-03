@@ -11,7 +11,7 @@ Module.register("MMM-MiBiciTuBici", {
   stations: {},
   defaults: {
     header: 'Mi Bici Tu Bici',
-    stationsList: [2, 4, , 5, 6, 10, 16, 20, 22],
+    stationsList: [2, 4, 5, 6, 10, 16, 20, 22],
     updateInterval: 300000, // update interval in milliseconds
     fadeSpeed: 4000,
     infoClass: 'medium' // small, medium or big
